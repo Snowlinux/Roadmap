@@ -7,7 +7,7 @@ finalize git packages
 
 finalize repository
 
-finalize ISO
+finalize ISOs
 
 
 Bugs in Snowlinux 4 "Frosty"
@@ -19,4 +19,4 @@ sources.list points to a wrong mirror
 
 Cosmetic
 --------
-snowlinux-metal-theme has green checkboxes instead of blue ones
+Snowlinux-Metal-Theme has green checkboxes instead of blue ones
