@@ -3,9 +3,11 @@ Bugs in Snowlinux 5 "Flurry"
 
 System
 ------
-finalize git packages<br>
-finalize repository<br>
-finalize ISO<br>
+finalize git packages
+
+finalize repository
+
+finalize ISO
 
 
 Bugs in Snowlinux 4 "Frosty"
