@@ -11,7 +11,7 @@ finalize ISOs
 Bugs in Snowlinux 4 "Frosty"
 ============================
 
-remove Baobab
+remove baobab
 
 finalize repository
 
