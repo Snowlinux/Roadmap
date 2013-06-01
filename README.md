@@ -15,8 +15,9 @@ Bugs in Snowlinux 4 "Frosty"
 
 System
 ------
-sources.list points to a wrong mirror
+MATE packages in Cinnamon
 
 Cosmetic
 --------
-Snowlinux-Metal-Theme has green checkboxes instead of blue ones
+remove Ubuntu branding in ubiquity
+remove Ubuntu slideshow
