@@ -9,7 +9,9 @@ lvm support missing<br />
 uefi support missing<br />
 secure boot support missing<br />
 aptitude fails to install snowlinux-desktop-core<br />
-the blinking for the kernel boot message is rather alarming (reported by wm_duckie)
+the blinking for the kernel boot message is rather alarming (reported by wm_duckie)<br />
+add DDM<br />
+make lightdm theme
 
 Snowlinux Tools
 ----------
@@ -30,3 +32,4 @@ mate theme's broken, shows up in settings as "Custom"
 
 De-scoped
 ---------
+change to MDM
