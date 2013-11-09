@@ -1,14 +1,20 @@
-Bugs in Snowlinux 5 "Flurry"
-============================
+Infra
+-----
 
 System
 ------
-finalize git packages
 
-finalize repository
+Mint Tools
+----------
 
-finalize ISOs
+Look and Feel
+-------------
 
+Cinnamon
+--------
 
-Bugs in Snowlinux 4 "Frosty"
-============================
+MATE
+----
+
+De-scoped
+---------
