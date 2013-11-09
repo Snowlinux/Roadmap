@@ -4,7 +4,7 @@ Infra
 System
 ------
 
-Mint Tools
+Snowlinux Tools
 ----------
 
 Look and Feel
