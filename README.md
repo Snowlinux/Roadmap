@@ -15,7 +15,6 @@ Snowlinux Tools
 ----------
 snowmount does not close (process keeps running)<br />
 snowmount behaves erroneous / lvm support missing<br />
-snowmount behaves erroneous / lvm support missing<br />
 snowlinux-installer writes fstab with wrong fs when part is formated btrfs or fat32 and maybe others<br />
 snowlinux-installer translations missing
 
